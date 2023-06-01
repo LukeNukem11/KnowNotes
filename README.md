@@ -1,6 +1,8 @@
 # KnowNotes
 
 KnowNotes is a web application for managing notes using Node.js and Express.
+![image](https://github.com/LukeNukem11/KnowNotes/assets/118786612/c628202a-9a75-4ebc-9371-21e5e765d7f3)
+
 
 ## Description
 
